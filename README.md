@@ -4,5 +4,5 @@ Materiales y ejercicios del curso de SmartData sobre Data Sciencia en Inteligenc
 
 Se pueden observar 3 carpetas
 - [python](/python/): contiene ejercicios básicos de aprendizaje del lenguaje y estructuras de datos
-- EDA: contiene ejercicios de análisis exploratorio de datos, generación de gráficas, limpieza, imputación y análisis de datos.
-- ml: contiene ejercicios de machine learning supervisado y no supervisado, así como redes neuronales
+- [EDA](/EDA/): contiene ejercicios de análisis exploratorio de datos, generación de gráficas, limpieza, imputación y análisis de datos.
+- [ml](/ml/): contiene ejercicios de machine learning supervisado y no supervisado, así como redes neuronales
